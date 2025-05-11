@@ -2,7 +2,7 @@
 Energy Usage Optimization is a smart energy management system using Python, machine learning, and IoT integration. It predicts energy usage patterns, provides optimization tips, and includes a Flask-based dashboard, secure data handling, and real-time monitoring through smart devices.
 Category: Smart Energy Management System
 
-Overview:
+OVERVIEW:
 
 Designed to reduce energy consumption and improve efficiency in homes and institutions
 
@@ -12,7 +12,7 @@ Integrates IoT devices (e.g., smart plugs, meters) for real-time energy monitori
 
 Provides actionable recommendations to minimize waste
 
-Technologies Used:
+TECHNOLOGIES USED:
 
 Programming: Python
 
@@ -28,7 +28,7 @@ IoT Integration: Smart plug/meter APIs (simulated or real)
 
 Security: Basic encryption and secure storage practices
 
-Features:
+FEATURES:
 
 Interactive dashboard for energy insights and user interaction
 
@@ -40,7 +40,7 @@ User feedback loop for continuous model improvement
 
 Multilingual interface for broader accessibility
 
-Development Phases Covered:
+DEVELOPMENT PHASES COVERED:
 
 Phase 1: Problem definition, system design, and prototyping
 
@@ -52,7 +52,7 @@ Phase 4: Performance optimization, real-time scaling, and data security
 
 Phase 5: Demonstration, documentation, testing, and final deployment
 
-Outcome:
+OUTCOME:
 
 Achieved accurate energy usage predictions
 
@@ -60,7 +60,7 @@ Enabled proactive energy-saving recommendations
 
 Built a scalable, user-friendly system ready for real-world deployment
 
-Future Scope:
+FUTURE SCOPE:
 
 Integration with renewable energy systems and smart grids
 
